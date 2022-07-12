@@ -1,6 +1,6 @@
 # RocketNews
 
-Desafio concluído seguindo os ensinamentos da [Rocketseat]('https://www.rocketseat.com.br')
+Desafio concluído seguindo os ensinamentos da [Rocketseat](https://www.rocketseat.com.br)
 
 ![img](./assets/logo.svg)
 
